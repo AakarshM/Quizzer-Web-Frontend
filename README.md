@@ -1,7 +1,8 @@
 # Quizzer-Web-Frontend
 Web frontend for Quizzer. The web platform is exclusively for teachers and offers features different from Android.
 
-##Context
+#Context
+-----------
 
 # What is Quizzer?
 Getting inspiration from iClicker/REEF, I wanted to create my own version via tech I've learned. In a class of x students and one professor
