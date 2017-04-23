@@ -157,6 +157,7 @@ var editTask = function() {
     }
   }
 
+
   var IDofSelected = idList[indexOfSelected];
   //console.log(IDofSelected);
 
