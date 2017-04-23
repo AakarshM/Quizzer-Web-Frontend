@@ -3,6 +3,12 @@ Web frontend for Quizzer. The web platform is exclusively for teachers and offer
 
 # Context
 -----------
+If you want to test it out, clone [Backend repo](https://github.com/AakarshM/Quizzer-Node-Backend) and navigate to the folder and run `npm start` to run the server. 
+
+**Important**: You must install MongoDB, Node.js, Express.js, Socket.io, path.js, and Nodemon to run the server (the server uses Nodemon to refresh on change)
+
+**Client**: Clone [Android repo](https://github.com/AakarshM/Quizzer-Android-Client) and install the `
+
 # Links
 -----------
 
