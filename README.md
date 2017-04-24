@@ -9,6 +9,10 @@ If you want to test it out, clone [Backend repo](https://github.com/AakarshM/Qui
 
 **Client**: Clone [Android repo](https://github.com/AakarshM/Quizzer-Android-Client) and install the `apk`. If you want to try out the teacher part (hand in hand), while you `npm start` on the backend repo, simply navigate to `localhost:3000` and create an account/login and go with the flow.
 
+# Demo:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 # Time frame
 Took me a while to finish this project since its quite extensive and detail oriented. An estimate time frame is January 2017 - April/May 2017
 
