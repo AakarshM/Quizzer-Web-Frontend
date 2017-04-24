@@ -11,7 +11,7 @@ If you want to test it out, clone [Backend repo](https://github.com/AakarshM/Qui
 
 # Demo:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://vimeo.com/214461719 "Logo Title Text 1")
 
 # Time frame
 Took me a while to finish this project since its quite extensive and detail oriented. An estimate time frame is January 2017 - April/May 2017
