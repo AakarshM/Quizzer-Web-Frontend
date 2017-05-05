@@ -1,5 +1,5 @@
 # Quizzer-Web-Frontend
-Web frontend for Quizzer. The web platform is exclusively for teachers and offers features different from Android.
+Web frontend for Quizzer. The web platform is exclusively for teachers and offers features different from Android. 
 
 # Context
 -----------
