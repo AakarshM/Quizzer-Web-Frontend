@@ -18,6 +18,8 @@ If you want to test it out, clone [Backend repo](https://github.com/AakarshM/Qui
 
 The link for the Android APK (student version) is also on the webpage!
 
+Note: Unfortunately I was unable to get an SSL certificate as its mostly for deployment/development purposes so it is only accessible with HTTP.
+
 # Time frame
 Took me a while to finish this project since its quite extensive and detail oriented. An estimate time frame is January 2017 - April/May 2017
 
