@@ -1,4 +1,7 @@
 # Quizzer-Web-Frontend
+
+**The app is now live**
+
 Web frontend for Quizzer. The web platform is exclusively for teachers and offers features different from Android. 
 
 # Context
@@ -9,9 +12,11 @@ If you want to test it out, clone [Backend repo](https://github.com/AakarshM/Qui
 
 **Client**: Clone [Android repo](https://github.com/AakarshM/Quizzer-Android-Client) and install the `apk`. If you want to try out the teacher part (hand in hand), while you `npm start` on the backend repo, simply navigate to `localhost:3000` and create an account/login and go with the flow. Before you do all this, deploy a HTTP/HTTPS server `ngrok http 3000` using ngrok and replace the `BASE_URL` in `Constants.java` in the Android app with the url you are given through ngrok. 
 
-# Demo:
+# Check it out!
 
-![alt text](https://vimeo.com/214461719 "Logo Title Text 1")
+[Quizzer Web Client (Teachers)](http://quizzeruw.herokuapp.com/ "Quizzer Web")
+
+The link for the Android APK (student version) is also on the webpage!
 
 # Time frame
 Took me a while to finish this project since its quite extensive and detail oriented. An estimate time frame is January 2017 - April/May 2017
