@@ -14,7 +14,7 @@ If you want to test it out, clone [Backend repo](https://github.com/AakarshM/Qui
 
 # Check it out!
 
-[Quizzer Web Client (Teachers)](http://quizzeruw.herokuapp.com/ "Quizzer Web")
+[Quizzer Web Client (Teachers)](https://quizzeruw.herokuapp.com/ "Quizzer Web")
 
 The link for the Android APK (student version) is also on the webpage!
 
